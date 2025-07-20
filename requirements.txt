@@ -1,6 +1,9 @@
-opencv-python==4.8.1.78
-numpy==2.0.2
-streamlit==1.29.0
+opencv-python==4.8.0.74
+numpy==1.24.3
+streamlit==1.25.0
 python-dotenv==1.0.0
-Pillow==10.0.1
+Pillow==9.5.0
 inference-sdk==0.10.1
+protobuf==3.20.0
+setuptools==65.5.1
+wheel==0.38.4
