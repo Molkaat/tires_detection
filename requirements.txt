@@ -1,0 +1,5 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+inference-sdk>=1.0.0
+streamlit >=0.80.0
+python-dotenv>=0.15.0
