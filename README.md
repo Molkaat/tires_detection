@@ -1,3 +1,5 @@
+<img width="839" height="789" alt="Screenshot 2025-07-20 230559" src="https://github.com/user-attachments/assets/42ad9085-5ab0-4f12-ba0a-0fe043a8d042" />
+<img width="883" height="834" alt="Screenshot 2025-07-20 224607" src="https://github.com/user-attachments/assets/f0bae4a2-9b4c-4c69-b140-ca1f1d655ee0" />
 # TireCount Pro
 
 AI-powered tire detection and counting system using pyramid detection method.
